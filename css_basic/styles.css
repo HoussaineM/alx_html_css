@@ -1,0 +1,47 @@
+body, main {
+    display: flex;
+}
+body {
+    flex-direction: column;
+}
+main {
+    flex-direction: row;
+}
+main {
+    height: auto;
+    width: auto;
+}
+article {
+    flex: 2;
+    overflow: auto;
+}
+aside {
+    flex: 1;
+    overflow: auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #f4f4f4;
+}
+header, footer {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
