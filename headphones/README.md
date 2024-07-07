@@ -38,9 +38,9 @@ Added animations to items in both the "What we do..." and "Our results" sections
 Animations include scaling, opacity changes, and hover effects.
 Repository Structure:
 
-GitHub Repository: alx_html_css
-Directory: headphones
-representable picture of the project:
+GitHub Repository: alx_html_css.
+Directory: headphones.
+Representable picture of the project:
 ![60df485eb772ecbad54a](https://github.com/HoussaineM/alx_html_css/assets/170951746/31e9a38c-f514-45b4-a106-28d029d43a87)
 Conclusion:
 This project showcases front-end web development skills, focusing on implementing a complex design with HTML and CSS. The use of Figma ensured the design was followed precisely, while the project requirements emphasized writing clean, responsive code.
